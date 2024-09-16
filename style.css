@@ -916,6 +916,7 @@ body {
     flex-shrink: 0;
     width: 35%;
     height: 25vh;
+    cursor: none;
   }
 
   #milddle-part1 {
@@ -950,6 +951,7 @@ body {
   .middle-p2-box {
     width: fit-content;
     height: fit-content;
+    cursor: none;
   }
 
   .middle-p2-box>img {
@@ -958,12 +960,15 @@ body {
 
   .middle-p2-box>h3 {
     font-size: .8rem;
+    cursor: none;
   }
   #top-p1-text h3{
     font-size: .8rem;
+    cursor: none;
   }
   #top-p1-text h4{
     font-size: .6rem;
+    cursor: none;
   }
   #emojis{
     top: -90%;
