@@ -924,34 +924,51 @@ body {
     width: 100%;
     height: fit-content;
     z-index: 999999;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   #feed2-middle {
     padding-bottom: 1rem;
     width: 100%;
     height: fit-content;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   #middle-search {
     width: 80%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   #dbimg {
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   #milddle-part2 {
     margin-top: 1rem;
     width: 100%;
     height: fit-content;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   .middle-p2-box {
     width: fit-content;
     height: fit-content;
-    cursor: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
 
   .middle-p2-box>img {
@@ -960,15 +977,22 @@ body {
 
   .middle-p2-box>h3 {
     font-size: .8rem;
-    cursor: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
   #top-p1-text h3{
     font-size: .8rem;
-    cursor: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
+
   }
   #top-p1-text h4{
     font-size: .6rem;
-    cursor: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-touch-callout: none;
   }
   #emojis{
     top: -90%;
